@@ -1,10 +1,4 @@
-# ML-Primer-101
-This is the repo where we learn about prerequisite for machine learning:
-1. Python
-2. Maths and Stats for ML
-3. Numpy
-4. Pandas
-5. Matplotlib/ plotly
+# Tensorflow - 101
 
 
 Git commands to update this repo:
