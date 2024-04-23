@@ -1,4 +1,5 @@
-# Tensorflow - 101
+# ML Frameworks and Libraries - ( Scikit-Learn, Tensorflow, Keras, Pytorch )
+This repository contains famous and most-used frameworks and libraries that are being used in ML and DL communities. (E.g. Scikit-Learn, Tensorflow, Keras, Pytorch).
 
 
 Git commands to update this repo:
