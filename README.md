@@ -1,4 +1,4 @@
-# Maths for Machine Learning - Linear Algebra, Statistics, Probability, calculus.
+# Tensorflow and Keras Workbooks
 This repository contains famous and most-used frameworks and libraries that are being used in ML and DL communities. (E.g. Scikit-Learn, Tensorflow, Keras, Pytorch).
 
 
